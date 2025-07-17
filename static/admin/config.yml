@@ -1,8 +1,0 @@
-backend:
-  name: github
-  repo: Remeseiz/TLZArt
-  branch: main
-  auth_scope: repo
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
-  app_id: Ov23livLyQWFreocMA3A
